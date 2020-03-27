@@ -3,6 +3,7 @@
 # How to use it ?
 
 - Place files from [WWW](www/) to your web-server
+- Import [sql database file](database/mysql-database.sql)
 - Change host in [DataController](Business-Card-Scanner/Assets/Scripts/DataController.cs)
 
 # Links
